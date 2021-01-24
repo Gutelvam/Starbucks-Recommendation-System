@@ -4,19 +4,18 @@
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
+3. [Data Descriptions](#files)
 4. [Results](#results)
 5. [Licensing and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
 There is necessary an Anaconda distribution of Python and Scikit Surprise library, the notebook contain pip command to run on windows, if you work with other OS you must look for those packages.
-The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
 There are many problems when sending offers randomly to your customers, so the main idea is to find a way to label the sentiment of offers by customers and after analyzing, create a recommendation mechanism that can send offers that best suit a particular user. Therefore, we want to optimize the way customers interact with offers.
-This work is the Capstone Challenge of the Starbucks from  Udacity Data Scientist Nanodegree. We get the dataset from the program that was created in simulated form, the data has informantion of how people make purchasing decisions and how those decisions are influenced by promotional offers.
+This work is the Capstone Challenge of the Starbucks from  Udacity Data Scientist Nanodegree. We get the dataset from the program that was created in a simulated form, the data has contain the people behavior of purchasing decisions and how those decisions are influenced by promotional offers based on Starbucks real data.
 
 Using This dataset, was need to choose some questions to answer from the data, and in this case i choose to answer 4 questions as following:
 
@@ -26,7 +25,7 @@ Using This dataset, was need to choose some questions to answer from the data, a
 - How many users has completed offers?
 
 
-## File Descriptions <a name="files"></a>
+## Data Descriptions <a name="files"></a>
 
 The notebook available here showcases work related to the above questions and the data set is a simplified version of the real Starbucks.
 

@@ -17,9 +17,9 @@ The code should run with no issues using Python versions 3.*.
 ## Project Motivation<a name="motivation"></a>
 
 There are many problems when sending offers randomly to your customers, so the main idea is to find a way to label the sentiment of offers by customers and after analyzing, create a recommendation mechanism that can send offers that best suit a particular user. Therefore, we want to optimize the way customers interact with offers.
-This work is the Capstone Challenge of the Starbuck Nanodegree Data Scientist in Udacity. We get the dataset from the program that creates the data that simulates how people make purchasing decisions and how those decisions are influenced by promotional offers.
+This work is the Capstone Challenge of the Starbucks from  Udacity Data Scientist Nanodegree. We get the dataset from the program that was created in simulated form, the data has informantion of how people make purchasing decisions and how those decisions are influenced by promotional offers.
 
-Using This dataset, was need to choose 3 questions to answer from the data, and in this case i choose to answer 4 questions as following:
+Using This dataset, was need to choose some questions to answer from the data, and in this case i choose to answer 4 questions as following:
 
 - Which genre is more likely to complete an offer?
 - Which gender has highest salaries?

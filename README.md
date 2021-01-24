@@ -8,6 +8,27 @@
 4. [Results](#results)
 5. [Licensing and Acknowledgements](#licensing)
 
+***Dependencies***:
+
+        -Python (>= 3.6)
+
+	    -numpy(>=1.18.4)
+
+        -SciPy(>= 1.4.1)
+
+        -Matplotlib (>= 3.3.3)
+
+        -scikit-Surprise (>=1.1.1)
+
+        -pandas(>=1.1.0)
+	
+	    -seaborn(==0.11.1)
+        
+        -tdqm (>= 4.56.0)
+
+ ***Observation:*** most of dependences can be achieved by installing Anacanda 
+
+
 ## Installation <a name="installation"></a>
 
 There is necessary an Anaconda distribution of Python and Scikit Surprise library, the notebook contain pip command to run on windows, if you work with other OS you must look for those packages.

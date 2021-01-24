@@ -65,7 +65,7 @@ This project was a huge challenge, to implement the model at hand it was very di
 
 Of all the models used to create the recommendation system, it was possible to notice that the SVD had the best performance both using cross-validation with the surprise libraryd. The surprise librabry is a goood choice, which is very interesting for fast projects due to its similarity with the sci-kit learn, easily usable and implementable.
 
-However, it is possible to realize that he has his shortcomings and difficulties, the recommendation returns the most similar users and it is necessary to carry out a further treatment to find the recommendations, another point is that many users had few recommendations this is due to the low amount of rates user or even the lack of records for this user. On the other hand, when implementing a model manually, you are free to make changes and create a more generalizable model, combining several approaches in one system.
+However, it is possible to realize that it has iis shortcomings and difficulties, the recommendation returns the most similar users and it is necessary to carry out a further treatment to find the recommendations, another point is that many users had few recommendations this is due to the low amount of rates user or even the lack of records for this user. On the other hand, when implementing a model manually, you are free to make changes and create a more generalizable model, combining several approaches in one system.
 
 ## [Licensing and Acknowledgements](#licensing)<a name="results"></a>
 [MIT License](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt).

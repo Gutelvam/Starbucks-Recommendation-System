@@ -50,7 +50,7 @@ Using This dataset, was need to choose some questions to answer from the data, a
 
 The notebook available here showcases work related to the above questions and the data set is a simplified version of the real Starbucks.
 
-Data Iformation
+Data Information
 The datasets that we have and we are going to read, clean, and analyze. Here is the schema and explanation of each variable in the files:
 
 `portfolio.json`
@@ -84,9 +84,9 @@ All the analysis and main results can be found [here](https://medium.com/@gutto.
 
 This project was a huge challenge, to implement the model at hand it was very difficult in particular to make conditions when creating a base dataframe, once the processing time was the Gap, after that the understanding of the surprise library took some time. What really made me very happy was the know that the model can be improved by adding other approachs and that we can get a model realy fast, the RMSE of 0.799192 we were able to get with default cross-validation in SVD model, thus we could get better results with GridSearchCV, 0.7985 of RMSE. This made me so happy because it was the metric chosen.
 
-Of all the models used to create the recommendation system, it was possible to notice that the SVD had the best performance both using cross-validation with the surprise libraryd. The surprise librabry is a goood choice, which is very interesting for fast projects due to its similarity with the sci-kit learn, easily usable and implementable.
+Of all the models used to create the recommendation system, it was possible to notice that the SVD had the best performance both using cross-validation with the surprise libraryd. The surprise librabry is a good choice, which is very interesting for fast projects due to its similarity with the sci-kit learn, easily usable and implementable.
 
-However, it is possible to realize that it has iis shortcomings and difficulties, the recommendation returns the most similar users and it is necessary to carry out a further treatment to find the recommendations, another point is that many users had few recommendations this is due to the low amount of rates user or even the lack of records for this user. On the other hand, when implementing a model manually, you are free to make changes and create a more generalizable model, combining several approaches in one system.
+However, it is possible to realize that it has is shortcomings and difficulties, the recommendation returns the most similar users and it is necessary to carry out a further treatment to find the recommendations, another point is that many users had few recommendations this is due to the low amount of rates user or even the lack of records for this user. On the other hand, when implementing a model manually, you are free to make changes and create a more generalizable model, combining several approaches in one system.
 
 ## [Licensing and Acknowledgements](#licensing)<a name="results"></a>
 [MIT License](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt).
